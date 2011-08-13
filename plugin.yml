@@ -1,0 +1,7 @@
+name: SignBay
+author: seaboy1234
+main: com.rakaienguard.seaboy1234.bukkit.SignBay.SignBay
+version: 1.0.0
+database: true
+description: >
+             Adds simple, user friendly sign shops for bukkit.
